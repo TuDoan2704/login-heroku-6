@@ -1,0 +1,1 @@
+web: java -jar build/libs/loginspringboot-14-1.0.jar
